@@ -1,4 +1,10 @@
-## Hi there 👋
+# Henlo 👋
+
+Striving to be 1% better than yesterday.
+
+![rys730's GitHub stats](https://github-readme-stats-six-eta-16.vercel.app/api?username=rys730&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-six-eta-16.vercel.app/api/top-langs/?username=rys730&layout=compact&theme=tokyonight)
+
 
 <!--
 **rys730/rys730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
